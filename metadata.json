@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Simulator",
+  "description": "A dynamic simulation application built with React, showcasing various statistical and optimization problems with interactive controls and visualizations.",
+  "requestFramePermissions": []
+}
